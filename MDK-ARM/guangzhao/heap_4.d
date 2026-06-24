@@ -1,0 +1,13 @@
+guangzhao\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+guangzhao\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+guangzhao\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+guangzhao\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+guangzhao\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+guangzhao\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+guangzhao\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+guangzhao\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+guangzhao\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+guangzhao\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+guangzhao\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+guangzhao\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+guangzhao\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

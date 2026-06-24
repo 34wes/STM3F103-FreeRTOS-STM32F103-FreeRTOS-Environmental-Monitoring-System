@@ -1,0 +1,14 @@
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+guangzhao\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+guangzhao\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+guangzhao\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+guangzhao\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+guangzhao\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

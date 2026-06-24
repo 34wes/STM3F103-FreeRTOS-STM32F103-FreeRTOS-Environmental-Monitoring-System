@@ -1,0 +1,15 @@
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+guangzhao\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+guangzhao\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+guangzhao\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+guangzhao\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+guangzhao\queue.o: ../Core/Inc/FreeRTOSConfig.h
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+guangzhao\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

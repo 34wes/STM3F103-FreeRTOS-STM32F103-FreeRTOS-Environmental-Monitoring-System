@@ -1,0 +1,15 @@
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+guangzhao\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+guangzhao\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+guangzhao\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+guangzhao\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+guangzhao\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
