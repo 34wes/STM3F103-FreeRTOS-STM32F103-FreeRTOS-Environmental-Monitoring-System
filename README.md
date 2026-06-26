@@ -45,19 +45,8 @@ STM32F103-FreeRTOS 环境监测系统（光照+人体红外+WiFi TCP上报）
 - VS Code 高效编写 + Keil MDK 精准编译调试
 - Git 分支管理、版本迭代、代码回溯，规范开发流程
 - 驱动分层封装：硬件层、任务层、通信层解耦，可读性、可移植性极强
-📁 工程目录结构
-Project/
-├── Core/                // 内核初始化、系统时钟、GPIO配置
-├── Drivers/             // HAL库底层驱动
-│   ├── bh1750_drv.c     // 光照传感器驱动
-│   ├── hc501_drv.c      // 人体红外驱动
-│   └── esp8266_at.c     // ESP8266 AT指令驱动+重连机制
-├── FreeRTOS/            // 系统任务调度源码
-├── Task/                // 业务任务代码
-│   ├── light_task.c     // 光照采集任务
-│   ├── alarm_task.c     // 阈值报警任务
-│   └── tcp_upload_task.c// TCP数据上报任务
-└── Main.c               // 入口函数、任务创建初始化
+<img width="608" height="386" alt="image" src="https://github.com/user-attachments/assets/41f9c58a-aac7-4dd1-ac6a-b9c73f6eb10c" />
+
 ⚙️ 运行流程
 1. 系统上电，初始化时钟、串口、I2C、GPIO、外设
 2. ESP8266 初始化，AT 指令校验，连接 WiFi 热点
